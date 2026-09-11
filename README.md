@@ -1,6 +1,8 @@
-# ELOBoost Landing Page
+# ELOBoost
 
-A modern, dark-themed landing page concept for a premium chess training platform. This project focuses on high-impact visual presentation, smooth motion, and conversion-oriented section design.
+Landing page for an AI chess training product. Dark theme, animated board, pricing, and coach sections.
+
+Live: [ai-chesselo.vercel.app](https://ai-chesselo.vercel.app)
 
 ## Project Overview
 
